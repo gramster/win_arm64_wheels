@@ -1,5 +1,4 @@
 *.pyc
 node_modules
-results.json
 top-pypi-packages.json
-wheel.svg
+

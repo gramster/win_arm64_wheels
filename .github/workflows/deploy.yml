@@ -6,8 +6,8 @@ on:
     branches:
       - main
   # Scheduled tasks only run on the main branch.
-  schedule:
-    - cron: '0 10 * * *'  # Daily at 10AM UTC.
+  #schedule:
+  #  - cron: '0 10 * * *'  # Daily at 10AM UTC.
   workflow_dispatch:
 
 jobs:
@@ -34,18 +34,10 @@ jobs:
         run: |
           make generate
 
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          role-to-assume: arn:aws:iam::386531310338:role/pythonwheels_deploy_from_github
-          aws-region: eu-west-1
-
-      - name: Deploy the built files
+      - name: Commit and push changes
         run: |
-          TIMESTAMP=$(date --iso-8601=seconds --utc)
-          echo $TIMESTAMP
-          aws s3 cp index.html s3://pythonwheels.com
-          aws s3 cp wheel.css s3://pythonwheels.com
-          aws s3 cp wheel.svg s3://pythonwheels.com
-          aws s3 cp results.json s3://pythonwheels.com/results/${TIMESTAMP}.json
-          aws s3 cp s3://pythonwheels.com/results/${TIMESTAMP}.json s3://pythonwheels.com/results.json
+          git config --global user.name 'GitHub Actions'
+          git add .
+          git commit -m "Update website"
+          git push
+
