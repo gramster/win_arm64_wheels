@@ -86,7 +86,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 428778111,
@@ -174,7 +174,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 291116209,
@@ -185,7 +185,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 285721360,
@@ -218,7 +218,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 252385401,
@@ -251,7 +251,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 242837339,
@@ -262,7 +262,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 239220415,
@@ -350,7 +350,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 214317521,
@@ -449,7 +449,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 157663442,
@@ -504,7 +504,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 145521011,
@@ -526,7 +526,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 143928856,
@@ -592,7 +592,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 130307667,
@@ -636,7 +636,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 119308521,
@@ -647,7 +647,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 118982211,
@@ -713,7 +713,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 112789373,
@@ -724,7 +724,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 112213652,
@@ -735,7 +735,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 111151380,
@@ -768,7 +768,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 107996897,
@@ -812,7 +812,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 103948549,
@@ -823,7 +823,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 103852087,
@@ -834,7 +834,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 103620135,
@@ -955,7 +955,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 90657315,
@@ -1010,7 +1010,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 85094833,
@@ -1032,7 +1032,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 84112999,
@@ -1098,7 +1098,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 78312604,
@@ -1120,7 +1120,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 76141921,
@@ -1208,7 +1208,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 72538587,
@@ -1274,7 +1274,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 69289616,
@@ -1318,7 +1318,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 68399133,
@@ -1384,7 +1384,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 67231992,
@@ -1417,7 +1417,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 66499452,
@@ -1461,7 +1461,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 65862311,
@@ -1494,7 +1494,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 64579804,
@@ -1549,7 +1549,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 60449667,
@@ -1560,7 +1560,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 60128947,
@@ -1747,7 +1747,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 55427857,
@@ -1758,7 +1758,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 54778389,
@@ -1791,7 +1791,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 53837632,
@@ -1989,7 +1989,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 45417571,
@@ -2000,7 +2000,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 45259686,
@@ -2099,7 +2099,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 43514730,
@@ -2242,7 +2242,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 39739355,
@@ -2264,7 +2264,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 39539443,
@@ -2440,7 +2440,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 36129583,
@@ -2451,7 +2451,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 35798310,
@@ -2473,7 +2473,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 35490009,
@@ -2517,7 +2517,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 34660439,
@@ -2550,7 +2550,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 34113742,
@@ -2572,7 +2572,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 34082029,
@@ -2847,7 +2847,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 29418866,
@@ -2935,7 +2935,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 28394860,
@@ -2968,7 +2968,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 28130194,
@@ -2990,7 +2990,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 27963893,
@@ -3034,7 +3034,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 27518911,
@@ -3100,7 +3100,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 26899096,
@@ -3199,7 +3199,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 25890045,
@@ -3243,7 +3243,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 25396239,
@@ -3298,7 +3298,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 25051151,
@@ -3463,7 +3463,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 22311454,
@@ -3507,7 +3507,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 21972414,
@@ -3529,7 +3529,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 21809242,
@@ -3584,7 +3584,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 21435211,
@@ -3639,7 +3639,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 21058503,
@@ -3870,7 +3870,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 20089353,
@@ -3881,7 +3881,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 20019671,
@@ -3936,7 +3936,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 19661843,
@@ -3958,7 +3958,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 19374776,
@@ -4057,7 +4057,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 18806779,
@@ -4178,7 +4178,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 18222594,
@@ -4189,7 +4189,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 18177677,
@@ -4244,7 +4244,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 17895589,
@@ -4343,7 +4343,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 17413308,
@@ -4409,7 +4409,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 17138741,
@@ -4497,7 +4497,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 16712700,
@@ -4552,7 +4552,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 16140492,
@@ -4607,7 +4607,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 15874547,
@@ -4640,7 +4640,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 15773097,
@@ -4684,7 +4684,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 15659548,
@@ -4915,7 +4915,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 14765863,
@@ -4992,7 +4992,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 14665079,
@@ -5036,7 +5036,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 14414794,
@@ -5113,7 +5113,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 14175505,
@@ -5179,7 +5179,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 14078135,
@@ -5355,7 +5355,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 13376238,
@@ -5377,7 +5377,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 13312631,
@@ -5498,7 +5498,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 12936346,
@@ -5652,7 +5652,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 12396393,
@@ -5685,7 +5685,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 12347004,
@@ -5817,7 +5817,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 12074180,
@@ -5850,7 +5850,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11897631,
@@ -5894,7 +5894,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11767614,
@@ -5949,7 +5949,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11652095,
@@ -6037,7 +6037,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11484578,
@@ -6125,7 +6125,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11277014,
@@ -6191,7 +6191,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 11099791,
@@ -6279,7 +6279,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 10943787,
@@ -6378,7 +6378,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 10835312,
@@ -6477,7 +6477,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 10665488,
@@ -6554,7 +6554,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 10543959,
@@ -6741,7 +6741,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 10152823,
@@ -6752,7 +6752,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 10123389,
@@ -6895,7 +6895,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 10029138,
@@ -6906,7 +6906,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 10020949,
@@ -6972,7 +6972,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9986140,
@@ -7005,7 +7005,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9977470,
@@ -7082,7 +7082,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9925453,
@@ -7093,7 +7093,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9925207,
@@ -7126,7 +7126,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9864861,
@@ -7335,7 +7335,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9574654,
@@ -7434,7 +7434,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9378929,
@@ -7500,7 +7500,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9329909,
@@ -7511,7 +7511,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9297617,
@@ -7687,7 +7687,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9050196,
@@ -7698,7 +7698,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9041959,
@@ -7742,7 +7742,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 9016282,
@@ -7753,7 +7753,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 9000066,
@@ -7764,7 +7764,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8998362,
@@ -7775,7 +7775,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8992661,
@@ -7786,7 +7786,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8992639,
@@ -7841,7 +7841,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8951785,
@@ -7863,7 +7863,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8896642,
@@ -7874,7 +7874,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 8859354,
@@ -7896,7 +7896,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8812666,
@@ -7995,7 +7995,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8612080,
@@ -8303,7 +8303,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8260476,
@@ -8512,7 +8512,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8113469,
@@ -8644,7 +8644,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 8038463,
@@ -8666,7 +8666,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7965282,
@@ -8688,7 +8688,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7909146,
@@ -8743,7 +8743,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7842060,
@@ -8798,7 +8798,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7631923,
@@ -8842,7 +8842,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7526559,
@@ -8985,7 +8985,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 7179665,
@@ -9040,7 +9040,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 6966192,
@@ -9084,7 +9084,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6859662,
@@ -9150,7 +9150,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6757570,
@@ -9304,7 +9304,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6564188,
@@ -9469,7 +9469,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6435828,
@@ -9535,7 +9535,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6330908,
@@ -9656,7 +9656,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6137953,
@@ -9711,7 +9711,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6086923,
@@ -9777,7 +9777,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 6003962,
@@ -9964,7 +9964,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5704471,
@@ -10030,7 +10030,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5607574,
@@ -10041,7 +10041,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 5602899,
@@ -10129,7 +10129,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5478590,
@@ -10217,7 +10217,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5370890,
@@ -10360,7 +10360,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5232070,
@@ -10404,7 +10404,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5218558,
@@ -10437,7 +10437,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5157766,
@@ -10525,7 +10525,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 5081118,
@@ -10558,7 +10558,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 5036671,
@@ -10635,7 +10635,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4946035,
@@ -10657,7 +10657,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4912445,
@@ -10690,7 +10690,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4850838,
@@ -10800,7 +10800,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4662178,
@@ -10833,7 +10833,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4641708,
@@ -10844,7 +10844,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4634465,
@@ -10855,7 +10855,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4634342,
@@ -10921,7 +10921,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4585989,
@@ -10998,7 +10998,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4504396,
@@ -11075,7 +11075,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 4403297,
@@ -11515,7 +11515,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4045002,
@@ -11592,7 +11592,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 4001257,
@@ -11680,7 +11680,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3950491,
@@ -11757,7 +11757,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3892358,
@@ -11823,7 +11823,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3834409,
@@ -11834,7 +11834,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3827920,
@@ -11911,7 +11911,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3787865,
@@ -11999,7 +11999,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3710839,
@@ -12120,7 +12120,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3623303,
@@ -12230,7 +12230,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3561375,
@@ -12406,7 +12406,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3388264,
@@ -12417,7 +12417,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3383425,
@@ -12428,7 +12428,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3381662,
@@ -12527,7 +12527,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3350630,
@@ -12692,7 +12692,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3279329,
@@ -12791,7 +12791,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3261772,
@@ -12912,7 +12912,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3157807,
@@ -13033,7 +13033,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 3074759,
@@ -13055,7 +13055,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3061687,
@@ -13308,7 +13308,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2953318,
@@ -13385,7 +13385,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2916713,
@@ -13440,7 +13440,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2902107,
@@ -13484,7 +13484,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2886270,
@@ -13572,7 +13572,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 2852226,
@@ -13814,7 +13814,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2753886,
@@ -13913,7 +13913,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2700830,
@@ -14155,7 +14155,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2626454,
@@ -14298,7 +14298,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2591114,
@@ -14441,7 +14441,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2498163,
@@ -14551,7 +14551,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 2459304,
@@ -14562,7 +14562,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2457045,
@@ -14573,7 +14573,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2447622,
@@ -14606,7 +14606,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2426671,
@@ -14936,7 +14936,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2254664,
@@ -15002,7 +15002,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2237681,
@@ -15035,7 +15035,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2232696,
@@ -15057,7 +15057,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 2226446,
@@ -15101,7 +15101,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 2207552,
@@ -15222,7 +15222,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2173932,
@@ -15244,7 +15244,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2169432,
@@ -15431,7 +15431,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2116836,
@@ -15497,7 +15497,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 2111188,
@@ -15519,7 +15519,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2105740,
@@ -15563,7 +15563,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 2079021,
@@ -15871,7 +15871,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1992675,
@@ -16113,7 +16113,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1935982,
@@ -16267,7 +16267,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1908009,
@@ -16333,7 +16333,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1887265,
@@ -16520,7 +16520,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1851011,
@@ -16619,7 +16619,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1832899,
@@ -16674,7 +16674,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1822768,
@@ -17048,7 +17048,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1745343,
@@ -17059,7 +17059,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1743676,
@@ -17169,7 +17169,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1723990,
@@ -17279,7 +17279,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 1716133,
@@ -17400,7 +17400,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1705739,
@@ -17554,7 +17554,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1687075,
@@ -17587,7 +17587,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1686138,
@@ -17774,7 +17774,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1655539,
@@ -17939,7 +17939,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1636309,
@@ -17961,7 +17961,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1635317,
@@ -18005,7 +18005,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1629801,
@@ -18027,7 +18027,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1626191,
@@ -18049,7 +18049,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1620197,
@@ -18159,7 +18159,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1599710,
@@ -18225,7 +18225,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1592440,
@@ -18258,7 +18258,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1587823,
@@ -18533,7 +18533,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1551843,
@@ -18577,7 +18577,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1542300,
@@ -18720,7 +18720,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 1524386,
@@ -18731,7 +18731,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1523662,
@@ -18830,7 +18830,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1504445,
@@ -18874,7 +18874,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1494087,
@@ -18940,7 +18940,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1484620,
@@ -18962,7 +18962,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1477303,
@@ -19028,7 +19028,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1470740,
@@ -19061,7 +19061,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1462647,
@@ -19083,7 +19083,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1459919,
@@ -19160,7 +19160,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1455460,
@@ -19171,7 +19171,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1451616,
@@ -19369,7 +19369,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 1398842,
@@ -19380,7 +19380,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1398216,
@@ -19391,7 +19391,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1395185,
@@ -19435,7 +19435,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 1393330,
@@ -19446,7 +19446,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1393240,
@@ -19468,7 +19468,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1391991,
@@ -19479,7 +19479,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1391076,
@@ -19512,7 +19512,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1386212,
@@ -19523,7 +19523,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1384929,
@@ -19545,7 +19545,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1381169,
@@ -19611,7 +19611,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1371374,
@@ -19655,7 +19655,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1366529,
@@ -19699,7 +19699,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1363590,
@@ -19721,7 +19721,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1361561,
@@ -19765,7 +19765,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1343360,
@@ -19798,7 +19798,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1341216,
@@ -19974,7 +19974,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1315622,
@@ -20040,7 +20040,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1304628,
@@ -20161,7 +20161,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1280644,
@@ -20491,7 +20491,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1236442,
@@ -20755,7 +20755,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1201914,
@@ -20810,7 +20810,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1196408,
@@ -20821,7 +20821,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1192417,
@@ -20843,7 +20843,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1186882,
@@ -20876,7 +20876,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1182432,
@@ -20986,7 +20986,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1167629,
@@ -21151,7 +21151,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1144366,
@@ -21162,7 +21162,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1142650,
@@ -21283,7 +21283,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1127231,
@@ -21624,7 +21624,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 1096644,
@@ -21756,7 +21756,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1086095,
@@ -21767,7 +21767,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1085912,
@@ -21811,7 +21811,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1079921,
@@ -21844,7 +21844,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1076579,
@@ -21899,7 +21899,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1075321,
@@ -21910,7 +21910,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1075166,
@@ -21943,7 +21943,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1071081,
@@ -22141,7 +22141,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1060648,
@@ -22240,7 +22240,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1049112,
@@ -22295,7 +22295,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1044977,
@@ -22735,7 +22735,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 1008672,
@@ -22856,7 +22856,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 998454,
@@ -22999,7 +22999,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 989308,
@@ -23087,7 +23087,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 979716,
@@ -23098,7 +23098,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 974880,
@@ -23285,7 +23285,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 968442,
@@ -23472,7 +23472,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 960266,
@@ -23505,7 +23505,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 957697,
@@ -23626,7 +23626,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 953847,
@@ -23725,7 +23725,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 949251,
@@ -23756,9 +23756,9 @@
    "complete": false,
    "usable": false,
    "value": 1,
-   "icon": "\u2713",
-   "css_class": "success",
-   "title": "This package is pure Python and provides a wheel."
+   "icon": "\u2717",
+   "css_class": "danger",
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 947375,
@@ -23857,7 +23857,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 944797,
@@ -23901,7 +23901,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 943730,
@@ -23912,7 +23912,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 943538,
@@ -24066,7 +24066,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 933364,
@@ -24088,7 +24088,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 931884,
@@ -24187,7 +24187,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 927208,
@@ -24242,7 +24242,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 923648,
@@ -24429,7 +24429,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 917025,
@@ -24594,7 +24594,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 903615,
@@ -24759,7 +24759,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 894259,
@@ -24979,7 +24979,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 877261,
@@ -25100,7 +25100,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 865058,
@@ -25243,7 +25243,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 850326,
@@ -25342,7 +25342,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 838659,
@@ -25969,7 +25969,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 787390,
@@ -26145,7 +26145,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 774546,
@@ -26453,7 +26453,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 754462,
@@ -26684,7 +26684,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 745626,
@@ -26739,7 +26739,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 743283,
@@ -26761,7 +26761,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 742181,
@@ -26970,7 +26970,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 732528,
@@ -27014,7 +27014,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 728710,
@@ -27454,7 +27454,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 706856,
@@ -27465,7 +27465,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 705680,
@@ -27509,7 +27509,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 704097,
@@ -27520,7 +27520,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 703613,
@@ -27641,7 +27641,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 698699,
@@ -27718,7 +27718,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 694308,
@@ -27729,7 +27729,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 693847,
@@ -27883,7 +27883,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 683092,
@@ -28257,7 +28257,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 674478,
@@ -28268,7 +28268,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 673771,
@@ -28279,7 +28279,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 673568,
@@ -28312,7 +28312,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 671825,
@@ -28356,7 +28356,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 669254,
@@ -28488,7 +28488,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 660043,
@@ -28719,7 +28719,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 643368,
@@ -28807,7 +28807,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 639976,
@@ -28884,7 +28884,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 637200,
@@ -29027,7 +29027,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 630774,
@@ -29082,7 +29082,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 629988,
@@ -29247,7 +29247,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 623684,
@@ -29269,7 +29269,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 622967,
@@ -29511,7 +29511,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 611427,
@@ -29731,7 +29731,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 601668,
@@ -29819,7 +29819,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 600427,
@@ -29973,7 +29973,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 594644,
@@ -30017,7 +30017,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 592839,
@@ -30094,7 +30094,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 591350,
@@ -30149,7 +30149,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 588637,
@@ -30193,7 +30193,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 586367,
@@ -30523,7 +30523,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 577082,
@@ -30655,7 +30655,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 571250,
@@ -31095,7 +31095,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 556880,
@@ -31227,7 +31227,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 550691,
@@ -31238,7 +31238,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 550314,
@@ -31271,7 +31271,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 549640,
@@ -31315,7 +31315,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 548282,
@@ -31414,7 +31414,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 545209,
@@ -31458,7 +31458,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 543525,
@@ -31480,7 +31480,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 542720,
@@ -31513,7 +31513,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 542004,
@@ -31546,7 +31546,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 541320,
@@ -31601,7 +31601,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 539651,
@@ -31656,7 +31656,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 537397,
@@ -31711,7 +31711,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 535956,
@@ -31722,7 +31722,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 535923,
@@ -32250,7 +32250,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 519347,
@@ -32514,7 +32514,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 513083,
@@ -32547,7 +32547,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 512397,
@@ -32635,7 +32635,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 509428,
@@ -32657,7 +32657,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 509161,
@@ -32767,7 +32767,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 506978,
@@ -32778,7 +32778,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 506920,
@@ -32811,7 +32811,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 505169,
@@ -32888,7 +32888,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 502635,
@@ -33130,7 +33130,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 498444,
@@ -33251,7 +33251,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 496316,
@@ -33383,7 +33383,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 491975,
@@ -33504,7 +33504,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 489173,
@@ -33713,7 +33713,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 482035,
@@ -33746,7 +33746,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 480343,
@@ -33834,7 +33834,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 477142,
@@ -34131,7 +34131,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 466396,
@@ -34175,7 +34175,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 465509,
@@ -34230,7 +34230,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 464778,
@@ -34362,7 +34362,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 461127,
@@ -34472,7 +34472,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 457443,
@@ -34593,7 +34593,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 455649,
@@ -34626,7 +34626,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 455016,
@@ -34802,7 +34802,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 451739,
@@ -34824,7 +34824,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 450943,
@@ -34835,7 +34835,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 450499,
@@ -34934,7 +34934,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 446505,
@@ -35143,7 +35143,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 440242,
@@ -35176,7 +35176,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 439130,
@@ -35253,7 +35253,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 436362,
@@ -35429,7 +35429,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 432233,
@@ -35825,7 +35825,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 421414,
@@ -36111,7 +36111,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 414962,
@@ -36452,7 +36452,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 406601,
@@ -36485,7 +36485,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 406350,
@@ -36551,7 +36551,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 403252,
@@ -36606,7 +36606,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 401827,
@@ -36661,7 +36661,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 400835,
@@ -36793,7 +36793,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 398577,
@@ -37024,7 +37024,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 393709,
@@ -37200,7 +37200,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 389351,
@@ -37343,7 +37343,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 386730,
@@ -37420,7 +37420,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 385872,
@@ -37728,7 +37728,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 379530,
@@ -37915,7 +37915,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 375416,
@@ -38058,7 +38058,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 371153,
@@ -38146,7 +38146,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 369269,
@@ -38421,7 +38421,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 362735,
@@ -38443,7 +38443,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 362699,
@@ -38784,7 +38784,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 354800,
@@ -38839,7 +38839,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 353857,
@@ -38894,7 +38894,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 353195,
@@ -39235,7 +39235,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 347027,
@@ -39279,7 +39279,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 346706,
@@ -39378,7 +39378,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 345497,
@@ -39455,7 +39455,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 343620,
@@ -39466,7 +39466,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 343198,
@@ -39521,7 +39521,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 342548,
@@ -39719,7 +39719,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 337575,
@@ -39851,7 +39851,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 334251,
@@ -40093,7 +40093,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 330557,
@@ -40159,7 +40159,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 327298,
@@ -40280,7 +40280,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 326000,
@@ -40500,7 +40500,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 322606,
@@ -40511,7 +40511,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 321936,
@@ -40599,7 +40599,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 320252,
@@ -40874,7 +40874,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 313442,
@@ -41006,7 +41006,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 311497,
@@ -41017,7 +41017,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 311390,
@@ -41116,7 +41116,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 309869,
@@ -41523,7 +41523,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 304191,
@@ -41545,7 +41545,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 303898,
@@ -41567,7 +41567,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 303766,
@@ -41600,7 +41600,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 303432,
@@ -41721,7 +41721,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 301288,
@@ -41820,7 +41820,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 300216,
@@ -42018,7 +42018,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 296920,
@@ -42084,7 +42084,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 296214,
@@ -42227,7 +42227,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 293892,
@@ -42238,7 +42238,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 293610,
@@ -42469,7 +42469,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 290372,
@@ -42524,7 +42524,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 289865,
@@ -42601,7 +42601,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 288689,
@@ -42645,7 +42645,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 287900,
@@ -43140,7 +43140,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 282140,
@@ -43162,7 +43162,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 282043,
@@ -43360,7 +43360,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 279356,
@@ -43492,7 +43492,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 278434,
@@ -43646,7 +43646,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 276157,
@@ -43789,7 +43789,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 274372,
@@ -43833,7 +43833,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 273901,
@@ -43998,7 +43998,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 271718,
@@ -44119,7 +44119,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 270434,
@@ -44130,7 +44130,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 270415,
@@ -44416,7 +44416,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 266980,
@@ -44592,7 +44592,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 265811,
@@ -44768,7 +44768,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 264102,
@@ -44999,7 +44999,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 262285,
@@ -45296,7 +45296,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 259842,
@@ -45494,7 +45494,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 257333,
@@ -45582,7 +45582,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 256803,
@@ -45978,7 +45978,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 253110,
@@ -46440,7 +46440,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 247635,
@@ -46506,7 +46506,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 246885,
@@ -46649,7 +46649,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 245829,
@@ -46671,7 +46671,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 245375,
@@ -46814,7 +46814,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 244153,
@@ -46913,7 +46913,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 243251,
@@ -47045,7 +47045,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 241692,
@@ -47111,7 +47111,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 241116,
@@ -47144,7 +47144,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 240823,
@@ -47518,7 +47518,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 237546,
@@ -47782,7 +47782,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 234869,
@@ -48002,7 +48002,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 233415,
@@ -48035,7 +48035,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 233272,
@@ -48123,7 +48123,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "primary",
-   "title": "This package provides an ARM64 binary wheel."
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 232447,
@@ -48244,7 +48244,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 231242,
@@ -48255,7 +48255,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 231191,
@@ -48376,7 +48376,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 230197,
@@ -48684,7 +48684,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 228631,
@@ -48750,7 +48750,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 228348,
@@ -48882,7 +48882,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 227901,
@@ -49003,7 +49003,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 226245,
@@ -49278,7 +49278,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 224495,
@@ -49465,7 +49465,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 223182,
@@ -49520,7 +49520,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 222750,
@@ -49553,7 +49553,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 222600,
@@ -49795,7 +49795,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 220646,
@@ -49806,7 +49806,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 220463,
@@ -49839,7 +49839,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 220314,
@@ -49905,7 +49905,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 219939,
@@ -49982,7 +49982,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 219606,
@@ -50037,7 +50037,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 219299,
@@ -50290,7 +50290,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 218505,
@@ -50389,7 +50389,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 218318,
@@ -51456,7 +51456,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 210854,
@@ -51467,7 +51467,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 210693,
@@ -51478,7 +51478,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 210603,
@@ -52094,7 +52094,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 206538,
@@ -52105,7 +52105,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 206270,
@@ -52380,7 +52380,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 203610,
@@ -52435,7 +52435,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 203408,
@@ -52501,7 +52501,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 203145,
@@ -52743,7 +52743,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 201894,
@@ -53040,7 +53040,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 199626,
@@ -53161,7 +53161,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 198650,
@@ -53260,7 +53260,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 198158,
@@ -53282,7 +53282,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 198068,
@@ -53304,7 +53304,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 197929,
@@ -53337,7 +53337,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 197632,
@@ -53480,7 +53480,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 196781,
@@ -53722,7 +53722,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 194893,
@@ -54085,7 +54085,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 192360,
@@ -54195,7 +54195,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 191106,
@@ -54217,7 +54217,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 190951,
@@ -54261,7 +54261,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 190373,
@@ -54327,7 +54327,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 189942,
@@ -54470,7 +54470,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 189157,
@@ -54536,7 +54536,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 188896,
@@ -54602,7 +54602,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 188344,
@@ -54855,7 +54855,7 @@
    "value": 1,
    "icon": "\u2713",
    "css_class": "warning",
-   "title": "This package provides Python and Windows binary wheels but not for ARM64."
+   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
   },
   {
    "downloads": 186893,
@@ -54965,7 +54965,7 @@
    "value": 1,
    "icon": "\u2717",
    "css_class": "danger",
-   "title": "This package provides only binary wheels but not for ARM64."
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 185747,
@@ -55001,5 +55001,5 @@
    "title": "This package is pure Python and provides a wheel."
   }
  ],
- "last_update": "Friday, 01 November 2024, 17:55:14 UTC"
+ "last_update": "Friday, 01 November 2024, 18:42:22 UTC"
 }
