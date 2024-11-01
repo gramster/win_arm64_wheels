@@ -4,6 +4,24 @@
   fill: #5CB85C;
 }
 
+.danger {
+  stroke: #D9534F;
+  stroke-width: 1;
+  fill: #E9635F;
+}
+
+.warning {
+  stroke: #F0AD4E;
+  stroke-width: 1;
+  fill: #FFA500;
+}
+
+.primary {
+  stroke: #337AB7;
+  stroke-width: 1;
+  fill: #5BC0DE;
+}
+
 .default {
   stroke: #cccccc;
   stroke-width: 1;

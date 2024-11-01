@@ -54,7 +54,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-            <h1 id="wheels">Python Wheels</h1>
+            <h1 id="wheels">Python WinARM64 Wheels</h1>
                 <object data="wheel.svg" type="image/svg+xml" width="380" height="380" class="center-block"></object>
                 <h2 id="what">What are wheels?</h2>
                 <p><a href="https://pypi.org/project/wheel">Wheels</a> are <a href="https://www.python.org/dev/peps/pep-0427">the new standard</a> of Python distribution and are intended to replace eggs. Support is offered in <code>pip &gt;= 1.4</code> and <code>setuptools &gt;= 0.8</code>.</p>
@@ -68,9 +68,12 @@
                     <li>More consistent installs across platforms and machines.</li>
                 </ol>
                 <h2 id="about-list">What is this list?</h2>
-                <p>This site shows the top 360 most-downloaded packages on <a href="https://pypi.org/">PyPI</a> showing which have been uploaded as wheel archives.</p>
+                <p>This site shows the 5000 most-downloaded packages on <a href="https://pypi.org/">PyPI</a> showing which have been uploaded as wheel archives.</p>
                 <ul>
-                    <li><span class="text-success">Green</span> packages offer wheels,</li>
+                    <li><span class="text-success">Green</span> packages are pure Python-only wheels,</li>
+                    <li><span class="text-primary">Blue</span> packages offer WinARM64 wheels,</li>                    
+                    <li><span class="text-warning">Yellow</span> packages offer only non-ARM64 wheels but have a pure Python fallback,</li>                    
+                    <li><span class="text-danger">Red</span> packages offer only non-ARM64 wheels with no pure-Python fallback,</li>
                     <li><span class="text-muted">White</span> packages have no wheel archives uploaded (yet!).</li>
                 </ul>
                 <p>Packages that are known to be deprecated are not included. (For example distribute). If your package is incorrectly listed, please <a href="https://github.com/meshy/pythonwheels/issues/">create a ticket</a>.</p>

@@ -83,18 +83,22 @@ def add_fraction(wheel, packages, total):
 
     # Packages with some sort of wheel
     wheel_packages = sum(package["wheel"] for package in packages)
+    # Packages that are fully ready for WinARM64
+    complete_packages = sum(package["complete"] for package in packages)    
+    # Packages that are usable on WinARM64
+    usable_packages = sum(package["usable"] for package in packages) 
 
-    packages_with_wheels = et.SubElement(
+    packages_with_usable_wheels = et.SubElement(
         wheel,
         "text",
         x=str(CENTER),
         y=str(CENTER - OFFSET),
         attrib=text_attributes,
     )
-    packages_with_wheels.text = f"{wheel_packages}"
+    packages_with_usable_wheels.text = f"{usable_packages}"
 
-    title = et.SubElement(packages_with_wheels, "title")
-    percentage = f"{wheel_packages / float(total):.0%}"
+    title = et.SubElement(packages_with_usable_wheels, "title")
+    percentage = f"{usable_packages / float(total):.0%} usable on WinARM64"
     title.text = percentage
 
     # Dividing line

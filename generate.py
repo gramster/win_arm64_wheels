@@ -6,7 +6,7 @@ from utils import (
     save_to_file,
 )
 
-TO_CHART = 360
+TO_CHART = 5000
 
 
 def main():
