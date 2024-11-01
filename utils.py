@@ -68,14 +68,14 @@ def annotate_wheels(packages):
         if has_wheel:
             if has_arm:
                 package["css_class"] = "primary"
-                package["title"] = "This package provides an ARM64 binary wheel."                  
+                package["title"] = "This package provides a WinARM64 binary wheel."                  
             elif has_win_bin:
                 if has_any:
                     package["css_class"] = "warning"
-                    package["title"] = "This package provides Python and Windows binary wheels but not for ARM64."
+                    package["title"] = "This package provides pure-Python and Windows binary wheels but not for WinARM64."
                 else:
                     package["css_class"] = "danger"
-                    package["title"] = "This package provides only binary wheels but not for ARM64."
+                    package["title"] = "This package provides only binary wheels but none for WinARM64."
                     package["icon"] = "\u2717"  # Ballot X
             else:
                 package["css_class"] = "success"
