@@ -6,8 +6,8 @@ on:
     branches:
       - main
   # Scheduled tasks only run on the main branch.
-  #schedule:
-  #  - cron: '0 10 * * *'  # Daily at 10AM UTC.
+  schedule:
+    - cron: '0 10 * * *'  # Daily at 10AM UTC.
   workflow_dispatch:
 
 jobs:
@@ -41,3 +41,19 @@ jobs:
           git commit -m "Update website"
           git push
 
+      - name: Commit
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git pull
+          git add -A
+          git status
+          git commit -m "Daily update" -a
+        shell: bash
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PAT }}
+          branch: "main"
+        
