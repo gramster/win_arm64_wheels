@@ -1,6 +1,7 @@
 import datetime
 import json
 import pytz
+import re
 import requests
 
 
@@ -17,6 +18,24 @@ DEPRECATED_PACKAGES = {
     "pypular",
     "sklearn",
 }
+
+# Packages with binary wheels built by cgohlke. To get these we need to read
+# https://raw.githubusercontent.com/cgohlke/win_arm64-wheels/refs/heads/main/README.md
+# and then look for the package name in the list. Lines in that README.md that have
+# packages have forms like this:
+#
+# - [aggdraw](https://pypi.org/project/aggdraw/) 1.3.19
+#
+
+url = "https://raw.githubusercontent.com/cgohlke/win_arm64-wheels/refs/heads/main/README.md"
+
+# Fetch the content of the README.md file
+response = requests.get(url)
+response.raise_for_status()  # Raise an exception for HTTP errors
+
+# Extract lines that contain package information
+cgohlke_packages = re.findall(r'- \[(\w+)\]\(https://pypi.org/project/\w+/\) \d+\.\d+\.\d+', response.text)
+
 
 SESSION = requests.Session()
 
@@ -42,7 +61,8 @@ def annotate_wheels(packages):
         data = response.json()
         #package["anyfile"] = ""
         #package["armfile"] = ""
-        #package["winfile"] = ""          
+        #package["winfile"] = ""     
+        has_cgohlke = package["name"] in cgohlke_packages      
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
                 has_wheel = True
@@ -61,7 +81,7 @@ def annotate_wheels(packages):
                 #break
         package["wheel"] = has_wheel
         package["complete"] = has_arm or (has_any and not has_win_bin)     
-        package["usable"] = has_arm or has_any              
+        package["usable"] = has_arm or has_any or has_cgohlke             
         # Display logic. I know, I'm sorry.
         package["value"] = 1
         package["icon"] = "\u2713"  # Check mark  
@@ -73,6 +93,9 @@ def annotate_wheels(packages):
                 if has_any:
                     package["css_class"] = "warning"
                     package["title"] = "This package provides pure-Python and Windows binary wheels but not for WinARM64."
+                elif has_cgohlke:
+                    package["css_class"] = "info"
+                    package["title"] = "This package has a WinARM64 binary wheel provided by cgohlke."
                 else:
                     package["css_class"] = "danger"
                     package["title"] = "This package provides only binary wheels but none for WinARM64."

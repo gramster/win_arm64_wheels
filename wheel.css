@@ -22,6 +22,12 @@
   fill: #5BC0DE;
 }
 
+.info {
+  stroke: #50B0DE;
+  stroke-width: 1;
+  fill: #6BD0EE;
+}
+
 .default {
   stroke: #cccccc;
   stroke-width: 1;
