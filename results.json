@@ -719,12 +719,12 @@
    "downloads": 141187733,
    "name": "multidict",
    "wheel": true,
-   "complete": false,
+   "complete": true,
    "usable": true,
    "value": 1,
    "icon": "\u2713",
-   "css_class": "warning",
-   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
+   "css_class": "primary",
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 140150206,
@@ -1235,13 +1235,13 @@
   {
    "downloads": 96537918,
    "name": "google-api-python-client",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 96447272,
@@ -3292,13 +3292,13 @@
   {
    "downloads": 35428776,
    "name": "google-cloud-pubsub",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 35327197,
@@ -3545,13 +3545,13 @@
   {
    "downloads": 31484743,
    "name": "google-cloud-secret-manager",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 31458372,
@@ -4546,13 +4546,13 @@
   {
    "downloads": 22496585,
    "name": "pandas-gbq",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 22473522,
@@ -4931,13 +4931,13 @@
   {
    "downloads": 20522080,
    "name": "google-cloud-dataproc",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 20521510,
@@ -5679,13 +5679,13 @@
   {
    "downloads": 17330189,
    "name": "sqlalchemy-spanner",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 17240268,
@@ -7032,13 +7032,13 @@
   {
    "downloads": 12962693,
    "name": "google-cloud-compute",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 12954916,
@@ -10707,12 +10707,12 @@
    "downloads": 5842518,
    "name": "pycares",
    "wheel": true,
-   "complete": false,
+   "complete": true,
    "usable": true,
    "value": 1,
    "icon": "\u2713",
-   "css_class": "info",
-   "title": "This package has a WinARM64 binary wheel provided by cgohlke."
+   "css_class": "primary",
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 5841058,
@@ -13922,9 +13922,9 @@
    "complete": false,
    "usable": false,
    "value": 1,
-   "icon": "\u2713",
-   "css_class": "success",
-   "title": "This package is pure Python and provides a wheel."
+   "icon": "\u2717",
+   "css_class": "danger",
+   "title": "This package provides only binary wheels but none for WinARM64."
   },
   {
    "downloads": 3539411,
@@ -14304,8 +14304,8 @@
    "downloads": 3422415,
    "name": "kaleido",
    "wheel": true,
-   "complete": false,
-   "usable": false,
+   "complete": true,
+   "usable": true,
    "value": 1,
    "icon": "\u2713",
    "css_class": "success",
@@ -24589,12 +24589,12 @@
    "downloads": 1217707,
    "name": "igraph",
    "wheel": true,
-   "complete": false,
-   "usable": false,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "danger",
-   "title": "This package provides only binary wheels but none for WinARM64."
+   "icon": "\u2713",
+   "css_class": "primary",
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 1217632,
@@ -27162,13 +27162,13 @@
   {
    "downloads": 982817,
    "name": "pyvmomi",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 982643,
@@ -29021,13 +29021,13 @@
   {
    "downloads": 843549,
    "name": "google-cloud-discoveryengine",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 841728,
@@ -39032,12 +39032,12 @@
    "downloads": 442090,
    "name": "selectolax",
    "wheel": true,
-   "complete": false,
-   "usable": false,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "danger",
-   "title": "This package provides only binary wheels but none for WinARM64."
+   "icon": "\u2713",
+   "css_class": "primary",
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 441999,
@@ -47832,12 +47832,12 @@
    "downloads": 292941,
    "name": "ua-parser-rs",
    "wheel": true,
-   "complete": false,
-   "usable": false,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "danger",
-   "title": "This package provides only binary wheels but none for WinARM64."
+   "icon": "\u2713",
+   "css_class": "primary",
+   "title": "This package provides a WinARM64 binary wheel."
   },
   {
    "downloads": 292905,
@@ -49943,13 +49943,13 @@
   {
    "downloads": 268812,
    "name": "minikanren",
-   "wheel": false,
-   "complete": false,
-   "usable": false,
+   "wheel": true,
+   "complete": true,
+   "usable": true,
    "value": 1,
-   "icon": "\u2717",
-   "css_class": "default",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "icon": "\u2713",
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 268663,
@@ -54620,11 +54620,11 @@
    "name": "tensorboard-plugin-profile",
    "wheel": true,
    "complete": false,
-   "usable": true,
+   "usable": false,
    "value": 1,
    "icon": "\u2713",
-   "css_class": "warning",
-   "title": "This package provides pure-Python and Windows binary wheels but not for WinARM64."
+   "css_class": "success",
+   "title": "This package is pure Python and provides a wheel."
   },
   {
    "downloads": 240180,
@@ -55001,5 +55001,5 @@
    "title": "This package is pure Python and provides a wheel."
   }
  ],
- "last_update": "Monday, 09 June 2025, 18:45:27 UTC"
+ "last_update": "Wednesday, 25 June 2025, 20:29:49 UTC"
 }
